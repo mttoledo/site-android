@@ -8,7 +8,10 @@ With the project, I was able to consolidate the content learned, from basic HTML
 
 ## Screenshots
 
-
+<div align="center">
+  <img src="results/screenshot-default.png" alt="screenshot normal screen" width="400px" style="display: inline-block; margin: 0 10px;">
+  <img src="results/screenshot-mobile.png" alt="screenshot mobile screen" width="400px" style="display: inline-block; margin: 0 10px;">
+</div>
 
 ## Updates
 
