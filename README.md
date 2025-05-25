@@ -8,7 +8,7 @@ With the project, I was able to consolidate the content learned, from basic HTML
 
 ## Access Here
 
-<a href="https://mttoledo.github.io/site-android/">Visit the project</a>
+<a href="https://mttoledo.github.io/site-android/" target= _blank>Visit the project</a>
 
 ## Screenshots
 
