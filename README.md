@@ -6,6 +6,14 @@ I did my best to ensure that the website was responsive, following the guideline
 
 With the project, I was able to consolidate the content learned, from basic HTML5 and CSS3 fundamentals to website responsiveness.
 
+## Tradução
+
+Meu primeiro site, desenvolvido após a conclusão dos módulos 1 e 2 do curso de HTML5 + CSS3 do CursoemVídeo, ministrado por Gustavo Guanabara.
+
+Fiz o possível para garantir que o site fosse responsivo, seguindo as diretrizes propostas pelo instrutor do curso.
+
+Com o projeto, consegui consolidar o conteúdo aprendido, desde os fundamentos básicos de HTML5 e CSS3 até a responsividade de sites.
+
 ## Access Here
 
 <a href="https://professorguanabara.github.io/projeto-android/" target=_blank>Visit the original project</a>
@@ -21,3 +29,7 @@ With the project, I was able to consolidate the content learned, from basic HTML
 ## Updates
 
 I've made some changes to the project to fix an issue related to the website's navigation (nav). I transformed the nav container into a flex container, allowing <a> links to align properly and preventing them from breaking into multiple lines. Additionally, I created a media query to apply reductions in font size and padding, as well as to center the nav tags on devices with screen widths less than 600px.
+
+## Atualizações
+
+Eu fiz algumas alterações no projeto para corrigir um problema relacionado à navegação (nav) do site. Eu transformei o nav em um conteiner flexível, permitindo que links <a> se alinhassem de forma apropriada, prevenindo que se quebrassem em múltiplas linhas. Ademais, eu criei uma media query para aplicar reduções no tamanho da fonte e do padding, bem como para centralizar as tags de navegação em dispositivos com largura de tela menor que 600px.
